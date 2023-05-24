@@ -1,0 +1,4 @@
+csv
+colorama
+copy
+matplotlib
